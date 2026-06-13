@@ -25,3 +25,17 @@ This project demonstrates the setup and validation of an ethical hacking lab env
 - Network Troubleshooting
 - VMware Configuration
 - Cybersecurity Environment Preparation
+
+## Screenshots
+
+### Kali Linux Identification
+![Kali Linux](screenshots/kali_ip_configuration.png)
+
+### Metasploitable Identification
+![Metasploitable](screenshots/metasploitable_configuration.png)
+
+### Connectivity Verification
+![Ping Test](screenshots/connectivity_check.png)
+
+### VMware Network Configuration
+![VMware Settings](screenshots/vmware_network_settings.png)
